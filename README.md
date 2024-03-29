@@ -1,4 +1,4 @@
-<h2 align="left">Hi</h2>
+<h2 align="left">Hi 👋!</h2>
 
 ###
 
@@ -28,8 +28,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/889r/889r/output/snake.svg" alt="Snake animation" />
 
