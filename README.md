@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rei and I'm a White Guy, from Nigeria.</h2>
+<h2 align="left">Hi! My name is Rei and I'm a White Guy, from Nigeria.</h2>
 
 ###
 
